@@ -29,10 +29,10 @@ export const Container = styled.div`
 }
 
 .avatar {
-  min-height: 32px;
-  min-width: 32px;
-  height: 32px;
-  width: 32px;
+  min-height: 52px;
+  min-width: 52px;
+  height: 52px;
+  width: 52px;
   border-radius: 50%;
 }
 
